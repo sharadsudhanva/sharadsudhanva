@@ -34,6 +34,6 @@ designing and building production services using C, Python/Flask and Spring Boot
 
 ## Tech I Use
 
-Python (Flask), Java (Spring Boot), PostgreSQL, MySQL, Redis, Linux, Docker, Shell, Perl, C/C++.
+Python (Flask), Java (Spring Boot), C/C++, PostgreSQL, MySQL, Redis, Linux, Docker, Shell, Perl.
 
 
